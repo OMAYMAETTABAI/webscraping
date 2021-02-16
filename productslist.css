@@ -1,0 +1,14 @@
+.card-img-top {
+    width: 100%;
+    height: 40vh;
+    object-fit: cover;
+}
+.card {
+    min-height: 200px;
+    background-color: #043349 !important;
+    color:white;
+}
+.btn-primary{
+    background-color: #EF8216 !important;
+    border: none;
+}
